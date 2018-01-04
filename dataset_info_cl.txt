@@ -1,0 +1,27 @@
+Data source: 
+https://www.kaggle.com/general/12463
+
+This data was used for a (now closed) Kaggle competition/
+https://inclass.kaggle.com/c/predicting-30-day-hospital-readmissions
+
+The data comes as supplemetary material for the article:
+Data from Predicting 30 Day Hospital Readmissions
+https://www.hindawi.com/journals/bmri/2014/781670/
+
+Challenge:
+Determine if a discharged patient will return to a hospital within 30 days.
+
+Emergency readmission to hospital is frequently used as a measure of the quality of a 
+hospital because a high proportion of readmissions should be preventable if the preceding 
+care is adequate. Hospitals are required to maintain rates of readmission below a national 
+standard, else they face sanctions and fines. In this competition, we seek to predict whether 
+a patient discharged from hospital will return within 30 days as an  emergency admit. We have 
+data from two major hospitals with information on their emergency admissions. Data include 
+demographic information, outcomes, all laboratory testing done while the patient is hospital 
+for that admission. The features of the data are described in detail in the data description 
+section. The accuracy measure for the models is classification accuracy as measured by the 
+area under the ROC curve. The winner of the competition will be the team that is at the top 
+of the private leaderboard. If you overfit your models to the training data and the public 
+test data, they are likely to perform poorly on the private leaderboard. 
+
+
